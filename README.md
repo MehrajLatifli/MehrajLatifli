@@ -5,10 +5,5 @@
 
 - 🌱 I’m currently learning **https://itstep.az/**
 
-<div id="github-card" 
-	data-sort-by="stars"
-	data-header-text="Most starred repositories"
-	data-max-repos="5"
-	data-username="piotrl">
-</div>
+<script type="text/javascript" src="https://github-profile.com/dist/gh-profile-card.min.js"></script>
 
