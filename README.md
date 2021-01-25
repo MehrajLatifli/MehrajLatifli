@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **https://itstep.az/**
 
-<github-profile-widget username="GeoDoo"></github-profile-widget>
+<github-profile-widget username="MehrajLatifli"></github-profile-widget>
 <script src="https://npmcdn.com/github-profile-widget@<version-you-want>/github-profile-widget.js"></script> 
 
 
