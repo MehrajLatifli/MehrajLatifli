@@ -11,7 +11,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Trulli" width="1702" height="630">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Trulli" width="500" height="250">
 
 </body>
 </html>
