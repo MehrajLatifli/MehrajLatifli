@@ -23,6 +23,28 @@
 </body>
 </html>
 
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
 
  <div class="row">
   <div class="column">
@@ -33,4 +55,7 @@
   </div>
   
 </div> 
+
+</body>
+</html>
 
