@@ -12,7 +12,7 @@
 
 
 <div> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Trulli" width="125" height="125" 
-     title=" C# create by Anders Hejlsberg " > <div>
+     title=" C# create by Anders Hejlsberg " > </div>
      
  <div> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Trulli" width="125" height="125" 
       title=" C++ create by Bjarne Stroustrup "> </div>
@@ -26,10 +26,10 @@
 
  <div class="row">
   <div class="column">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Snow" style="width="125" height="125">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Snow" style="width="125 height="125">
   </div>
   <div class="column">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Forest" style="width="125" height="125">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Forest" style="width="125 height="125">
   </div>
   
 </div> 
