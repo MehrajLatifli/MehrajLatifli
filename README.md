@@ -11,7 +11,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="https://cdn.techgyd.com/35-Most-Amazing-Facebook-Cover-Photos-HD-5.jpg" alt="Trulli" width="1702" height="630">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Trulli" width="1702" height="630">
 
 </body>
 </html>
