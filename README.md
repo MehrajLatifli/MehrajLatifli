@@ -19,11 +19,7 @@
 
 
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" style="float: left;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="float: left;" />
 
-</div>
 
 
 
