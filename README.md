@@ -29,7 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Snow" style="width="125" height="125">
   </div>
   <div class="column">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Forest" style="width:100%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Forest" style="width="125" height="125">
   </div>
   
 </div> 
