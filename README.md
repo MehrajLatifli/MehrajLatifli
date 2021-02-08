@@ -13,6 +13,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Trulli" width="125" height="125"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Trulli" width="125" height="125"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Trulli" width="125" height="125"> 
 
 
 
