@@ -14,8 +14,8 @@
 <p> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" alt="Trulli" width="125" height="125" 
      title=" C# create by Anders Hejlsberg " > </p>
      
-     <p> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Trulli" width="125" height="125" 
-         title=" C++ create by Bjarne Stroustrup "> </p>
+ <p> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Trulli" width="125" height="125" 
+      title=" C++ create by Bjarne Stroustrup "> </p>
 
 
 
