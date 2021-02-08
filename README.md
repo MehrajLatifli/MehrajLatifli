@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **https://itstep.az/**
 
-    http://graph.facebook.com/MehrajLatifli=cover
 
 
 
