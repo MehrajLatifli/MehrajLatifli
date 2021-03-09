@@ -11,7 +11,7 @@
 <body>
 
 
-<div> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" alt="Trulli" width="125" height="125" 
+<div> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png  , https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Trulli" width="125" height="125" 
      title=" C# create by Anders Hejlsberg " > </div>
      
 
