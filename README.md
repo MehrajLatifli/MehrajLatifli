@@ -13,6 +13,8 @@
 
 ![cover dance](https://user-images.githubusercontent.com/30021708/145936912-a3a9c898-451f-431d-bb36-d8cb153d0aa0.gif)
 
+<br/>
+
 <h1 align="center">Hi 👋, I'm Mehraj Latifli</h1>
 
 <br/>
