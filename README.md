@@ -18,7 +18,6 @@
 
 <h1 align="center">Hi 👋, I'm Mehraj Latifli</h1>
 
-<br/>
 
 <h3 align="left"> Do not believe in the games of the devil called transhumanism and dataism.
 </h3>
