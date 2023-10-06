@@ -19,9 +19,9 @@
 <h1 align="center">Hi 👋, I'm Mehraj Latifli</h1>
 
 
-<h3 align="left"> Do not believe in the games of the devil called transhumanism and dataism.
+<h3 > Do not believe in the games of the devil called transhumanism and dataism.
 </h3>
-<h3 align="left">Do not shake your faith in TENGRI.
+<h3 >Do not shake your faith in TENGRI.
 </h3>
 
 <br/>
