@@ -90,7 +90,7 @@
 <a  style="float: left; margin: 25px;"   href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MehrajLatifli/MehrajLatifli/main/images/29.png" title="Express.js" alt="Express.js" width="96" height="96"></a>
 <a  style="float: left; margin: 25px;"   href="https://handlebarsjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MehrajLatifli/MehrajLatifli/master/images/30.png" title="Handlebars" alt="Handlebars" width="96" height="96"></a>
 <a  style="float: left; margin: 25px;"   href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/MehrajLatifli/MehrajLatifli/master/images/31.png" title="Kotlin" alt="Kotlin" width="96" height="96"></a>
-<a  style="float: left; margin: 25px;"   href="https://www.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MehrajLatifli/MehrajLatifli/master/images/32.png" title="Android" alt="Android" width="96" height="96"></a>
+<a  style="float: left; margin: 25px;"   href="https://developer.android.com/studio" target="_blank"> <img src="https://raw.githubusercontent.com/MehrajLatifli/MehrajLatifli/master/images/32.png" title="Android Studio" alt="Android Studio" width="96" height="96"></a>
 </div>
 
 
