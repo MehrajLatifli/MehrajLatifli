@@ -94,6 +94,8 @@
 </div>
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/2" alt="Recent Article 2"> 
+ 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/4" alt="Recent Article 4"> 
 
 
 </body>
