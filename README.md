@@ -93,7 +93,7 @@
 <a  style="float: left; margin: 25px;"   href="https://developer.android.com/studio" target="_blank"> <img src="https://raw.githubusercontent.com/MehrajLatifli/MehrajLatifli/master/images/32.png" title="Android Studio" alt="Android Studio" width="96" height="96"></a>
 </div>
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/0" alt="Recent Article 2"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/0" alt="Recent Article 2"> 
 
 
 </body>
