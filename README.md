@@ -14,11 +14,7 @@
 ![cover dance](https://user-images.githubusercontent.com/30021708/145936912-a3a9c898-451f-431d-bb36-d8cb153d0aa0.gif)
 
 <h1 align="center">Hi 👋, I'm Mehraj Latifli</h1>
-
-<h3 align="left"> Do not believe in the games of the devil called transhumanism and dataism.
-</h3>
-<h3 align="left">Do not shake your faith in TENGRI.
-</h3>
+ </br>
 
 ![20211228_160939232](https://user-images.githubusercontent.com/30021708/147566911-ee6a376e-9d54-4e45-9a15-37b28ad2d50c.jpg)
 
