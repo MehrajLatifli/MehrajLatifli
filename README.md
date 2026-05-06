@@ -65,7 +65,7 @@
 
 ## 🎥 YouTube Playlist
 
-[![YouTube Playlist](https://img.youtube.com/vi/PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i)
+[![YouTube Playlist](https://img.youtube.com/vi/f7ZKBXH7HBA/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i)
 
 </body>
 </html>
