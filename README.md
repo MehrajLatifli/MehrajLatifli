@@ -61,11 +61,16 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/0" alt="Recent Article 0"> 
  
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/2" alt="Recent Article 1">  
- 
 
-## 🎥 YouTube Playlist
+</br>
 
-[![YouTube Playlist](https://img.youtube.com/vi/f7ZKBXH7HBA/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i)
+
+<p align="center">
+  <a href="https://www.youtube.com/playlist?list=PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i">
+    <img src="https://img.youtube.com/vi/f7ZKBXH7HBA/maxresdefault.jpg" width="320"/>
+  </a>
+</p>
+
 
 </body>
 </html>
