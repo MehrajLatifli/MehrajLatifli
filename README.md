@@ -63,7 +63,9 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehrajlatifli/2" alt="Recent Article 1">  
  
 
+## 🎥 YouTube Playlist
 
+[![YouTube Playlist](https://img.youtube.com/vi/PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i)
 
 </body>
 </html>
