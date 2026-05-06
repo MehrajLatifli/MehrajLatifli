@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/playlist?list=PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i">
-    <img src="https://img.youtube.com/vi/f7ZKBXH7HBA/maxresdefault.jpg" width="320"/>
+    <img src="https://img.youtube.com/vi/f7ZKBXH7HBA/maxresdefault.jpg" width="720"/>
   </a>
 </p>
 
