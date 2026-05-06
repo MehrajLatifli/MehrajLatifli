@@ -64,7 +64,9 @@
 
 </br>
 
+## 🎥 YouTube Playlist
 
+[Playlistə bax](https://www.youtube.com/playlist?list=PLiUhD-1cCRhfJn6wMqQqX8iI8gvgXv82i)
 
 
 </body>
